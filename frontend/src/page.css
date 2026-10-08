@@ -1,0 +1,12 @@
+/* Application-only canvas details. Brick owns controls, typography, surfaces and layout. */
+:root {
+  --brick-color-canvas: #f7f8fa;
+}
+
+body {
+  min-width: 320px;
+}
+
+main {
+  padding-block-end: 3rem;
+}

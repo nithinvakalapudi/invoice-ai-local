@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+.pytest_cache/
+test-results.xml
+*.py[cod]
+*.eml
+local_data/
+evaluation_data/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
